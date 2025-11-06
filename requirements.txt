@@ -4,3 +4,4 @@ python-dotenv
 nltk
 Sastrawi
 scikit-learn
+google-genai
