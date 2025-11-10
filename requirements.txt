@@ -5,3 +5,4 @@ nltk
 Sastrawi
 scikit-learn
 google-genai
+indoNLP
